@@ -12,6 +12,25 @@ const ConfirmSuscription = () => (
                 <span class='confirm_span'>Cerrar sesión</span>
             </div> 
         </nav>
+
+        <div>
+            <p></p>
+            <p></p>
+            <p></p>
+        </div>
+
+        <div id='account_details'>
+            <h3>r</h3>
+            <p></p>
+            <p></p>
+            <p></p>
+        </div>
+
+        <div id='suscription'>
+            <h3>r</h3>
+            <p></p>
+        </div>
+
     </div>
 );
 
