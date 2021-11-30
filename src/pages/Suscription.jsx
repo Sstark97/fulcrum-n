@@ -14,11 +14,12 @@ const Suscription = () => (
       Dejeme recordarle las ventajas que tiene estar suscrito a este servicio.
     </p>
     <ul>
-        <li>Amor y Cariño asegurado a grandes cantidades.</li>
-        <li>Mimos con mantita en noches de frío, con calor corporal incorporado</li>
-        <li>Maratones de Loki y de otras películas interesantes.</li>
-        <li>Perseguir manteles voladores sin dar nada de verguenza ajena</li>
+        <li>- Amor y Cariño asegurado a grandes cantidades.</li>
+        <li>- Mimos con mantita en noches de frío, con calor corporal incorporado</li>
+        <li>- Maratones de Loki y de otras películas interesantes.</li>
+        <li>- Perseguir manteles voladores sin dar nada de verguenza ajena</li>
     </ul>
+    <span>Obviamente AitorFlix quiere que renueve su <br/>membresía, para ello debe de hacer click en el botón <br/>de abajo. ;)</span>
     <button>RENOVAR MEMBRESIA</button>
     <span>- Tu queridisimo Frontend Lead</span>
   </div>
