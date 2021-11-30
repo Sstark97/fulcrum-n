@@ -1,5 +1,6 @@
 import React from "react";
 import aitorflix from "../assets/static/aitorflix.png";
+import { Link } from "react-router-dom";
 import "../assets/styles/suscription.css";
 
 const Suscription = () => (
@@ -20,7 +21,7 @@ const Suscription = () => (
         <li>- Perseguir manteles voladores sin dar nada de verguenza ajena</li>
     </ul>
     <span>Obviamente AitorFlix quiere que renueve su <br/>membresía, para ello debe de hacer click en el botón <br/>de abajo. ;)</span>
-    <button>RENOVAR MEMBRESIA</button>
+    <Link to='/confirmado'><button>RENOVAR MEMBRESIA</button></Link>
     <span>- Tu queridisimo Frontend Lead</span>
   </div>
 );

@@ -8,7 +8,7 @@ const App = () => (
         <BrowserRouter>
             <Routes>
                 <Route exact path="/" element={<Suscription/>} />
-                <Route path="/confirmado" component={ConfirmSuscription} />
+                <Route path="/confirmado" element={<ConfirmSuscription/>} />
             </Routes>
         </BrowserRouter>
 );

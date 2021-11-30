@@ -1,5 +1,7 @@
 import React from 'react';
 
-const ConfirmSuscription = () => (<div></div>);
+const ConfirmSuscription = () => (
+    <div>Hola</div>
+);
 
 export default ConfirmSuscription;
