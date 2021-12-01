@@ -18,6 +18,27 @@ nav {
     justify-content: space-between;
 }
 
+h1 {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    font-size: 22px;
+}
+
+p {
+    padding: 0;
+    margin-bottom: 1.35rem;
+}
+
+h3 {
+    text-align: left;
+}
+
+span {
+
+    margin: 0;
+}
+
 .confirm_span {
     color:#E50914;
     font-size: 15px;
@@ -26,4 +47,9 @@ nav {
 
 #account {
     margin-right: 1.5em;
+}
+
+#account_details {
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
 }
