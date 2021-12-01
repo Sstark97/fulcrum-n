@@ -21,7 +21,7 @@ const Suscription = () => (
         <li>- Perseguir manteles voladores sin dar nada de verguenza ajena</li>
     </ul>
     <span>Obviamente AitorFlix quiere que renueve su <br/>membresía, para ello debe de hacer click en el botón <br/>de abajo. ;)</span>
-    <Link to='/confirmado'><button>RENOVAR MEMBRESIA</button></Link>
+    <button><Link to='/confirmado'> RENOVAR MEMBRESIA </Link></button>
     <span>- Tu queridisimo Frontend Lead</span>
   </div>
 );

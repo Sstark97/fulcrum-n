@@ -4,11 +4,16 @@
     flex-direction: column;
     align-items: center;
     font-size: 14px;
+    padding: 0;
 }
 
 img {
-    width: 35%;
+    width: 75%;
     height: auto;
+}
+
+a {
+    width: 45%;
 }
 
 nav {
@@ -35,13 +40,29 @@ h3 {
 }
 
 span {
-
     margin: 0;
+}
+
+#confirm_ul {
+    padding: 0;
+}
+
+#suscription p, #account_details p {
+    margin-bottom: 0.5rem;
 }
 
 .confirm_span {
     color:#E50914;
     font-size: 15px;
+    font-weight: bold;
+    margin-right: 0.45rem;
+}
+
+.left {
+    opacity: 0.9;
+}
+
+.rigth {
     font-weight: bold;
 }
 
@@ -50,6 +71,11 @@ span {
 }
 
 #account_details {
-    width: 100%;
+    width: 95%;
+    font-family: 'Roboto', sans-serif;
+}
+
+#suscription {
+    width: 95%;
     font-family: 'Roboto', sans-serif;
 }
