@@ -20,7 +20,7 @@ const ConfirmSuscription = () => (
     <div>
       <p>
         Tu suscripción a AitorFlix ha sido renovada con éxito, ahora es cuándo
-        se vierne lo bueno.
+        se viene lo bueno.
       </p>
       <p>
         Dudamos mucho de que quiera cancelar su suscripción, sabemos lo cómoda
@@ -43,7 +43,7 @@ const ConfirmSuscription = () => (
 
       <p>
         <span className="left">Dirección de correo: </span>
-        <span className="rigth">saracs15@scssn@gmail.com</span>
+        <span className="rigth">saracs15scssn@gmail.com</span>
       </p>
 
       <p>
